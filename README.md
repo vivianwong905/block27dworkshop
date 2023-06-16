@@ -12,7 +12,7 @@ As a tester, you are tasked with ensuring that all functions work correctly. You
 ## Instructions
 
 1. Read through `App.jsx` and answer the following warm-up questions:
-   1. How do the functions work and data is fetched?
+      1. How do the functions work and data fetched?
 2. Live serve `index.html` to explore the app.
 3. Study the example test cases already written for you in `App.test.js`.
 4. Write the missing tests! Can you think of any that weren't included?
