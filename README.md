@@ -11,10 +11,10 @@ As a tester, you are tasked with ensuring that all functions work correctly. You
 
 ## Instructions
 
-1. Read through `App.jsx` and answer the following warm-up questions:
-      - How do the functions work and data fetched?
-2. Live serve `index.html` to explore the app.
-3. Study the example test cases already written for you in `App.test.js`.
-4. Write the missing tests! Can you think of any that weren't included?
-5. If you have extra time, try to write more robust test cases!
+1. Read through `App.jsx` and answer the following warm-up question:
+   - How do the functions work and data fetched?
+3. This workshop is built using Vite; use `npm run dev` to start and explore the app.
+4. Study the example test cases already written for you in `App.test.js`.
+5. Write the missing tests! Can you think of any that weren't included?
+6. If you have extra time, try to write more robust test cases!
    
